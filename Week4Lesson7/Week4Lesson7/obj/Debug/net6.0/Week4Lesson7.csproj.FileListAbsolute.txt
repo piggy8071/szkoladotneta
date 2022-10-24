@@ -1,0 +1,15 @@
+C:\Users\Pawel\source\repos\Week4Lesson7\Week4Lesson7\bin\Debug\net6.0\Week4Lesson7.exe
+C:\Users\Pawel\source\repos\Week4Lesson7\Week4Lesson7\bin\Debug\net6.0\Week4Lesson7.deps.json
+C:\Users\Pawel\source\repos\Week4Lesson7\Week4Lesson7\bin\Debug\net6.0\Week4Lesson7.runtimeconfig.json
+C:\Users\Pawel\source\repos\Week4Lesson7\Week4Lesson7\bin\Debug\net6.0\Week4Lesson7.dll
+C:\Users\Pawel\source\repos\Week4Lesson7\Week4Lesson7\bin\Debug\net6.0\Week4Lesson7.pdb
+C:\Users\Pawel\source\repos\Week4Lesson7\Week4Lesson7\obj\Debug\net6.0\Week4Lesson7.csproj.AssemblyReference.cache
+C:\Users\Pawel\source\repos\Week4Lesson7\Week4Lesson7\obj\Debug\net6.0\Week4Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pawel\source\repos\Week4Lesson7\Week4Lesson7\obj\Debug\net6.0\Week4Lesson7.AssemblyInfoInputs.cache
+C:\Users\Pawel\source\repos\Week4Lesson7\Week4Lesson7\obj\Debug\net6.0\Week4Lesson7.AssemblyInfo.cs
+C:\Users\Pawel\source\repos\Week4Lesson7\Week4Lesson7\obj\Debug\net6.0\Week4Lesson7.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\Week4Lesson7\Week4Lesson7\obj\Debug\net6.0\Week4Lesson7.dll
+C:\Users\Pawel\source\repos\Week4Lesson7\Week4Lesson7\obj\Debug\net6.0\refint\Week4Lesson7.dll
+C:\Users\Pawel\source\repos\Week4Lesson7\Week4Lesson7\obj\Debug\net6.0\Week4Lesson7.pdb
+C:\Users\Pawel\source\repos\Week4Lesson7\Week4Lesson7\obj\Debug\net6.0\Week4Lesson7.genruntimeconfig.cache
+C:\Users\Pawel\source\repos\Week4Lesson7\Week4Lesson7\obj\Debug\net6.0\ref\Week4Lesson7.dll
