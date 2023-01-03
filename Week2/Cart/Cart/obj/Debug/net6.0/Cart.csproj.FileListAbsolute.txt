@@ -1,0 +1,15 @@
+C:\Users\Pawel\source\repos\Cart\Cart\bin\Debug\net6.0\Cart.exe
+C:\Users\Pawel\source\repos\Cart\Cart\bin\Debug\net6.0\Cart.deps.json
+C:\Users\Pawel\source\repos\Cart\Cart\bin\Debug\net6.0\Cart.runtimeconfig.json
+C:\Users\Pawel\source\repos\Cart\Cart\bin\Debug\net6.0\Cart.dll
+C:\Users\Pawel\source\repos\Cart\Cart\bin\Debug\net6.0\Cart.pdb
+C:\Users\Pawel\source\repos\Cart\Cart\obj\Debug\net6.0\Cart.csproj.AssemblyReference.cache
+C:\Users\Pawel\source\repos\Cart\Cart\obj\Debug\net6.0\Cart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pawel\source\repos\Cart\Cart\obj\Debug\net6.0\Cart.AssemblyInfoInputs.cache
+C:\Users\Pawel\source\repos\Cart\Cart\obj\Debug\net6.0\Cart.AssemblyInfo.cs
+C:\Users\Pawel\source\repos\Cart\Cart\obj\Debug\net6.0\Cart.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\Cart\Cart\obj\Debug\net6.0\Cart.dll
+C:\Users\Pawel\source\repos\Cart\Cart\obj\Debug\net6.0\refint\Cart.dll
+C:\Users\Pawel\source\repos\Cart\Cart\obj\Debug\net6.0\Cart.pdb
+C:\Users\Pawel\source\repos\Cart\Cart\obj\Debug\net6.0\Cart.genruntimeconfig.cache
+C:\Users\Pawel\source\repos\Cart\Cart\obj\Debug\net6.0\ref\Cart.dll
